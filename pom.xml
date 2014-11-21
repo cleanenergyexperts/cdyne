@@ -11,6 +11,11 @@
 		<axis2.version>1.6.2</axis2.version>
 	</properties>
 
+	<scm>
+		<developerConnection>scm:git:git@github.com:cleanenergyexperts/cdyne.git</developerConnection>
+		<connection>scm:git:git@github.com:cleanenergyexperts/cdyne.git</connection>
+		<url>https://github.com/cleanenergyexperts/cdyne</url>
+	</scm>
 	<distributionManagement>
 		<repository>
 			<id>aws-release</id>
